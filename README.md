@@ -23,11 +23,11 @@ This project is similar in spirit to [Haskell Platform](https://www.haskell.org/
 
 ## FAQ
 
-### Why is it named `Swift Annex`
+### Why is it named `Swift Annex`?
 
 These libraries form an independent body of functionality that can be attached to the standard library of Swift, similar to how an 'annex' is attached to a legal document.
 
 ## Community
 
-Pull requests with additional libraries that satisfy the above criteria are
-especially welcome.
+Pull-requests with additional libraries that satisfy the above criteria are
+_especially_ welcome.
