@@ -12,9 +12,11 @@ This project is similar in spirit to [Haskell Platform](https://www.haskell.org/
 * [SwiftNIO](https://github.com/apple/swift-nio)
 * [Swift Protobuf](https://github.com/apple/swift-protobuf)
 * [Numeric Annex](https://github.com/xwu/NumericAnnex)
+* [Chronology](https://github.com/davedelong/Chronology)
 * [Collections](https://github.com/reizu/swift-collections)
 * [Statistics](https://github.com/reizu/swift-statistics)
 * [Color](https://github.com/reizu/swift-color)
+* [Nitro](https://github.com/reizu/swift-nitro)
 
 ## Criteria for inclusion
 
