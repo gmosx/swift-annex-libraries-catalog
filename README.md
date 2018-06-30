@@ -15,6 +15,7 @@ This project is similar in spirit to [Haskell Platform](https://www.haskell.org/
 * [Chronology](https://github.com/davedelong/Chronology)
 * [Collections](https://github.com/reizu/swift-collections)
 * [Graph](https://github.com/reizu/swift-graph)
+* [RegExp](https://github.com/reizu/swift-regexp)
 * [Statistics](https://github.com/reizu/swift-statistics)
 * [Color](https://github.com/reizu/swift-color)
 * [Nitro](https://github.com/reizu/swift-nitro)
