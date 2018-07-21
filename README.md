@@ -1,8 +1,6 @@
 # Swift Annex Libraries Catalog
 
-A curated catalog of best-of-breed, cross-platform Swift libraries that follow the
-[Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
-and play well together.
+A curated catalog of best-of-breed, cross-platform Swift libraries that follow the [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) and play well together.
 
 This project is similar in spirit to [Haskell Platform](https://www.haskell.org/platform/contents.html),
 [Boost C++ Libraries](https://www.boost.org/doc/libs/), etc.
@@ -19,6 +17,7 @@ This project is similar in spirit to [Haskell Platform](https://www.haskell.org/
 * [Statistics](https://github.com/reizu/swift-statistics)
 * [Color](https://github.com/reizu/swift-color)
 * [Nitro](https://github.com/reizu/swift-nitro)
+* [StatsdClient](https://github.com/reizu/swift-statsd-client)
 
 ## Criteria for inclusion
 
